@@ -12,7 +12,7 @@ Once any player meets the victory condition or the board is full, game's over.
 
 How to run:
 Just run the file named run.py in the current directory. 
-
+![image](https://github.com/JiaxinSong/tictactoe/blob/master/game_implement/img/show.jpg)
 
 
 
