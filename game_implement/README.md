@@ -14,7 +14,7 @@ How to run:
 Just run the file named run.py in the current directory. 
 
 
-
+![image](https://github.com/JiaxinSong/tictactoe/tree/master/game_implement/img/show.jpg)
 
 
 
