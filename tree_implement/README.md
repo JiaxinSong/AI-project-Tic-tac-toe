@@ -69,9 +69,9 @@ size: 13x13          wining goal: 5 in a row       depth: 3     nodes of each la
 
 sample(10*10):  
 
-![image](https://github.com/JiaxinSong/tictactoe/blob/master/tree_implement/result/size_13*13/performance.jpg)  
+![image](https://github.com/JiaxinSong/tictactoe/blob/master/tree_implement/result/size_10*10/performance.jpg)  
 
-![image](https://github.com/JiaxinSong/tictactoe/blob/master/tree_implement/result/size_13*13/turns.jpg)  
+![image](https://github.com/JiaxinSong/tictactoe/blob/master/tree_implement/result/size_10*10/turns.jpg)  
 
 
 
