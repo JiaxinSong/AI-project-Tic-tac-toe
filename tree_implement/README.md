@@ -58,7 +58,7 @@ For each size, we have two figures:
 1.  the numbers of tree nodes processed each game   
      blue means first player(tree-based AI) win   
      orange means second player win  
-     brown means draw   
+     green means draw   
 2. the numbers of turns of the game tree-based AI won  
 
 size: 7x7            wining goal: 5 in a row       depth: 3     nodes of each layer: 15   
