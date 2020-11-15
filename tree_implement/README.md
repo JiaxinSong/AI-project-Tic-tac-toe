@@ -33,7 +33,7 @@ res,turns,nodes = game2(c, 5, 3, 10, 2)   # 5 means winning rule: 5 in a row , 3
 ```
 run 100battle.py
 
-!  If you want tree-based AI to play firstly(using o), please using function game3 instead of game2
+!  If you want tree-based AI to play firstly(using o), please using function game3 instead of game2  
   
   
 100 battle between baseline AI(random) and baseline AI(random)
@@ -52,20 +52,20 @@ run 100battle.py
 
 Results:
 ==
-We have already finished run 100 battles between tree between tree-based AI(second to play) and baseline AI(random) on several different size of chessboards.  
-The result is in ./result.
+We have already finished run 100 battles between tree between tree-based AI(second to play) and baseline AI(random) on several different size of chessboards.    
+The result is in ./result.  
 For each size, we have two figures:
-1.  the numbers of tree nodes processed each game 
-     blue means first player(tree-based AI) win 
-     orange means second player win
-     brown means draw 
-2. the numbers of turns of the game tree-based AI won
+1.  the numbers of tree nodes processed each game   
+     blue means first player(tree-based AI) win   
+     orange means second player win  
+     brown means draw   
+2. the numbers of turns of the game tree-based AI won  
 
-size: 7x7            wining goal: 5 in a row       depth: 3     nodes of each layer: 15 
-size: 8x8            wining goal: 8 in a row       depth: 3     nodes of each layer: 10
-size: 9x9            wining goal: 5 in a row       depth: 3     nodes of each layer: 12
-size: 10x10        wining goal: 5 in a row       depth: 3     nodes of each layer: 9
-size: 13x13        wining goal: 5 in a row       depth: 3     nodes of each layer: 8
+size: 7x7            wining goal: 5 in a row       depth: 3     nodes of each layer: 15   
+size: 8x8            wining goal: 8 in a row       depth: 3     nodes of each layer: 10  
+size: 9x9            wining goal: 5 in a row       depth: 3     nodes of each layer: 12  
+size: 10x10        wining goal: 5 in a row       depth: 3     nodes of each layer: 9  
+size: 13x13        wining goal: 5 in a row       depth: 3     nodes of each layer: 8  
 
 Introduction of functions:  
 ==
