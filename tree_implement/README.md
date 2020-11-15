@@ -56,8 +56,8 @@ We have already finished run 100 battles between tree between tree-based AI(seco
 The result is in ./result.  
 For each size, we have two figures:
 1.  the numbers of tree nodes processed each game   
-     blue means first player(tree-based AI) win   
-     orange means second player win  
+     blue means second player(tree-based AI) win   
+     orange means first player(random) win  
      green means draw   
 2. the numbers of turns of the game tree-based AI won  
 
