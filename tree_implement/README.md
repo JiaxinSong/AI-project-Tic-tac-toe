@@ -64,8 +64,15 @@ For each size, we have two figures:
 size: 7x7            wining goal: 5 in a row       depth: 3     nodes of each layer: 15   
 size: 8x8            wining goal: 8 in a row       depth: 3     nodes of each layer: 10  
 size: 9x9            wining goal: 5 in a row       depth: 3     nodes of each layer: 12  
-size: 10x10        wining goal: 5 in a row       depth: 3     nodes of each layer: 9  
-size: 13x13        wining goal: 5 in a row       depth: 3     nodes of each layer: 8  
+size: 10x10          wining goal: 8 in a row       depth: 3     nodes of each layer: 9  
+size: 13x13          wining goal: 5 in a row       depth: 3     nodes of each layer: 8  
+
+sample(10*10): 
+![image](https://github.com/JiaxinSong/tictactoe/blob/master/tree_implement/result/size_13*13/performance.jpg)
+![image](https://github.com/JiaxinSong/tictactoe/blob/master/tree_implement/result/size_13*13/turns.jpg)
+
+
+
 
 Introduction of functions:  
 ==
