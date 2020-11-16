@@ -61,11 +61,11 @@ For each size, we have two figures:
      green means draw   
 2. the numbers of turns of the game tree-based AI won  
 
-size: 7x7            wining goal: 5 in a row       depth: 3     nodes of each layer: 15   
-size: 8x8            wining goal: 8 in a row       depth: 3     nodes of each layer: 10  
-size: 9x9            wining goal: 5 in a row       depth: 3     nodes of each layer: 12  
-size: 10x10          wining goal: 8 in a row       depth: 3     nodes of each layer: 9  
-size: 13x13          wining goal: 5 in a row       depth: 3     nodes of each layer: 8   
+size: 7x7            winning goal: 5 in a row       depth: 3     nodes of each layer: 15   
+size: 8x8            winning goal: 8 in a row       depth: 3     nodes of each layer: 10  
+size: 9x9            winning goal: 5 in a row       depth: 3     nodes of each layer: 12  
+size: 10x10          winning goal: 8 in a row       depth: 3     nodes of each layer: 9  
+size: 13x13          winning goal: 5 in a row       depth: 3     nodes of each layer: 8   
 
 sample(10*10):  
 
