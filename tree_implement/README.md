@@ -15,7 +15,7 @@ run run.py
   
 Game flow:  
 Choose the size of chess board first.   
-Then choose the win condition.   
+Then choose the winning condition.   
 Choose to play with random player or AI player, if you choose AI: choose the depth of the search tree and numbers of nodes in each layer of tree.  
 Choose to go fisrt or go second. If you choose go first, you will use o and your opponent will use x, vice verse.  
 Game begin. Put your pieces in available positives.  
