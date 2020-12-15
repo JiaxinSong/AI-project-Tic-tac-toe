@@ -49,8 +49,13 @@ Train models
 open nn.py  
 You can change model in NN( )  
 change board_size (should be the same as the size you choose to generate datax.pkl)
-Our datasets are too big to upload.
-run nn.py and modelx.pth will be generated, you will also get two graphs about trainning result.
+Our datasets are too big to upload.  
+run nn.py and modelx.pth will be generated, you will also get two graphs about trainning result.  
+sample(6*6):  
+
+![image](https://github.com/JiaxinSong/tictactoe/blob/master/neural_network_implement/n61.jpg)  
+
+![image](https://github.com/JiaxinSong/tictactoe/blob/master/neural_network_implement/n62.jpg)  
 
 100 battle between tree+NN-based AI and tree-based AI
 --  
@@ -64,6 +69,11 @@ res, turns, pieces = game2(c, 3, 3, 15, 2)  # tree-based+NN AI play at first (bo
 ```
 if you want tree-based+NN AI play at second, run game3( )  
 run nnbattle.py and one bar graph about performance will be generated.   
+sample(6*6):  
+
+![image](https://github.com/JiaxinSong/tictactoe/blob/master/neural_network_implement/b62.jpg)  
+
+
 
 
 
@@ -79,11 +89,11 @@ For each size, we have three figures:
 2. trainning average loss
 3. trainning target ouput
 
-size: 3x3            wining goal: 3 in a row       depth: 3     nodes of each layer: 15 
-size: 4x4            wining goal: 3 in a row       depth: 3     nodes of each layer: 15
-size: 5x5            wining goal: 3 in a row       depth: 3     nodes of each layer: 15
-size: 6x6            wining goal: 4 in a row       depth: 3     nodes of each layer: 15
-size: 7x7            wining goal: 4 in a row       depth: 3     nodes of each layer: 8
+size: 3x3            wining goal: 3 in a row       depth: 3     nodes of each layer: 15   
+size: 4x4            wining goal: 3 in a row       depth: 3     nodes of each layer: 15  
+size: 5x5            wining goal: 3 in a row       depth: 3     nodes of each layer: 15  
+size: 6x6            wining goal: 4 in a row       depth: 3     nodes of each layer: 15  
+size: 7x7            wining goal: 4 in a row       depth: 3     nodes of each layer: 8  
 
 Introduction of functions:  
 ==
